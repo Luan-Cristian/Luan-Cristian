@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Luan Cristian</h1>
+<h1 align="center">Hey I'm Luan Cristian</h1>
 <h3 align="center">💻 Computer Science Student | Web Developer in Progress</h3>
 
 <p align="center">
